@@ -1,0 +1,3 @@
+paste into terminal to start local server
+ctrl c on terminal then
+browser-sync start --server --directory --files "*"
